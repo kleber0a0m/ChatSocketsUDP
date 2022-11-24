@@ -2,7 +2,7 @@
 O chat desenvolvido tem como objetivo a troca de mensagens entre 2 computadores em uma rede local.
 
 ###  Baixe e teste o aplicativo:
-[Clique aqui](http://www.google.com)
+[Clique aqui](https://raw.githubusercontent.com/kleber0a0m/ChatSocketsUDP/main/ChatInteface.jar)
 
 Para executar o .jar é necessario ter o [java](https://www.java.com/pt-BR/download/manual.jsp) instalado.
 
