@@ -3,6 +3,7 @@ O chat desenvolvido tem como objetivo a troca de mensagens entre 2 computadores 
 
 ###  Baixe e teste o aplicativo:
 [Clique aqui](http://www.google.com)
+
 Para executar o .jar é necessario ter o [java](https://www.java.com/pt-BR/download/manual.jsp) instalado.
 
 ### Testar no mesmo computador
